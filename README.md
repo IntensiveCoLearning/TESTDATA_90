@@ -28,14 +28,10 @@
 
 
 
-## 请假规则
-
-每周请假 3 次
-
-
 ## 社群
 
-Telegram：
+微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearning/TESTDATA_90/main/assets/muxin-web3/images/2025-12-24-1766562159974-IMG_5776.JPG)
+微信联系人：_muxin_00
 ## 学习资料/课程安排
 
 学习内容
@@ -186,3 +182,9 @@ Telegram：
 - 淘汰人数: 0
 - 淘汰率: 0.00%
 <!-- STATISTICALDATA_END -->
+
+
+## 请假规则
+
+每周请假 2 次
+
