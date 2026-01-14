@@ -58,8 +58,9 @@ Telegram：https://t.me/c/LXDAO/6215
 <!-- START_COMMIT_TABLE -->
 | Name | 1.12 | 1.13 | 1.14 | 1.15 |
 | ------------- | ---- | ---- | ---- | ---- |
-| [muxin-web3](https://github.com/IntensiveCoLearning/TESTDATA_90/blob/main/muxin-web3.md) | ✅ |   | | |
+| [muxin-web3](https://github.com/IntensiveCoLearning/TESTDATA_90/blob/main/muxin-web3.md) | ✅ | ⭕️ |   | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
