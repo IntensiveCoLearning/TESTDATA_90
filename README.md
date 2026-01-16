@@ -58,8 +58,9 @@ Telegram：https://t.me/c/LXDAO/6215
 <!-- START_COMMIT_TABLE -->
 | Name | 1.12 | 1.13 | 1.14 | 1.15 |
 | ------------- | ---- | ---- | ---- | ---- |
-| [muxin-web3](https://github.com/IntensiveCoLearning/TESTDATA_90/blob/main/muxin-web3.md) | ✅ | ⭕️ | ⭕️ |   |
+| [muxin-web3](https://github.com/IntensiveCoLearning/TESTDATA_90/blob/main/muxin-web3.md) | ✅ | ⭕️ | ⭕️ | ❌ |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
@@ -208,12 +209,12 @@ Telegram：https://t.me/c/LXDAO/6215
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
-- 总参与人数: 0
+- 总参与人数: 1
 - 完成人数: 0
 - 完成用户: 
 - 全勤用户: 
-- 淘汰人数: 0
-- 淘汰率: 0.00%
+- 淘汰人数: 1
+- 淘汰率: 100.00%
 <!-- STATISTICALDATA_END -->
 
 
